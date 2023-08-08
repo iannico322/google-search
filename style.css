@@ -72,3 +72,7 @@ body {
   padding: 0px 10px;
   background-color: #f8f9fa;
 }
+
+.btns button:hover {
+  border: 0.4px solid rgba(0, 0, 0, 0.123);
+}
